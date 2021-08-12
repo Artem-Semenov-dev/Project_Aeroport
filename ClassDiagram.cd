@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="classTime" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAjCAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>classTime.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Date" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAkQAAABAAAAAAAAAAAAQAAAAQAAAABCAAAAAAAAAA=</HashCode>
+      <FileName>Date.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Flight" Collapsed="true">
+    <Position X="5.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAJBKAgAAAQAwAAAACAAACEAIABBAAEQEAgAQAAgIA=</HashCode>
+      <FileName>Flight.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Generator" Collapsed="true">
+    <Position X="2.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAoQCAEAAAQAAIAAAAACAAwABAkAAAgIMAAQAUCAAA=</HashCode>
+      <FileName>Generator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Plane" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ADQEAAgAAAAAAAEAQAAAQQAAAAABAEAAQgIgCIAAAAA=</HashCode>
+      <FileName>Plane.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="passenger_plane" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAIAAAAAAAAAAAAAQQAAAACAAEAAAgAgAAAAAAA=</HashCode>
+      <FileName>Plane.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Storage" Collapsed="true">
+    <Position X="2.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IABACAAICAAAAQAQIBoAQAAAAAAoAAAEIMAgBAAaAgA=</HashCode>
+      <FileName>Storage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ticket" Collapsed="true">
+    <Position X="9" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAagRAAIBQAACAAAgAAAACAAAAAAAEAAgAIAAAAA=</HashCode>
+      <FileName>Ticket.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
